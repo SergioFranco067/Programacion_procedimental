@@ -1,0 +1,7 @@
+var Codigo_producto = document.getElementById("Codigo_producto")
+var Nombre_producto = document.getElementById("Nombre_producto")
+var Precio_unitario = document.getElementById("estado_civil")
+var Cantidad_producto = document.getElementById("profesion")
+var Marca_producto = document.getElementById("fecha_nacimiento")
+var Categoria_producto = document.getElementById("Categoria_producto")
+var Unidad_media = document.getElementById("Unidad_media") 
