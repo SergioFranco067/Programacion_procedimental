@@ -62,7 +62,7 @@ function ValidarDatos() {
             });
             return;
         }
-        console.log("Ventas :" + Ventas + "Fecha :" + fecha + "Ingresos:" + Ingresos + "Egresos :" + Egresos + "Valor :" + Valor + "Concepto :" + Concepto)
+        console.log("Ventas :" + Ventas + "Fecha :" + Fecha + "Ingresos:" + Ingresos + "Egresos :" + Egresos + "Valor :" + Valor + "Concepto :" + Concepto)
 
         Swal.fire({
             title: "Dato guardados correctamente",
